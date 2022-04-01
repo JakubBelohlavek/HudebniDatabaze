@@ -1,5 +1,5 @@
 ﻿CREATE TABLE [dbo].[Alba] (
-    [Id]                 INT           NOT NULL,
+    [Id]                 INT           NOT NULL IDENTITY,
     [nazev]              NVARCHAR (50) NOT NULL,
     [rokvydani]          INT           NOT NULL,
     [autor]              NVARCHAR (50) NOT NULL,
