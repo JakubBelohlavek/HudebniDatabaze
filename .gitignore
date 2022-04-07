@@ -10,6 +10,8 @@
 *.userosscache
 *.sln.docstates
 
+DatabazeHudba.mdf
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
